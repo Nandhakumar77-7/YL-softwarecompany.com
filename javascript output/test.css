@@ -47,7 +47,7 @@ nav .nav-links a {
 
 /* Hero Section */
 .hero {
-    background: url('hero-image.jpg') no-repeat center center/cover;
+    background: url('/images/Backgrounds-Business-HD.jpg')  no-repeat center center/cover;
     color: #060606;
     text-align: center;
     padding: 100px 0;
@@ -178,4 +178,36 @@ span{
     font-size: 1rem;
     font-weight: bold;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Home1{
+    color:#f7a500;
+}
+
+#Home1:hover{
+    color:white;
+}
+
+#about1{
+    color:#f7a500;
+}
+
+#about1:hover{
+    color:white;
+}
+
+#services1{
+    color: #f7a500;
+}
+
+#services1:hover{
+    color:white;
+}
+
+#contact1{
+    color: #f7a500;
+}
+
+#contact1:hover{
+    color:white;
 }

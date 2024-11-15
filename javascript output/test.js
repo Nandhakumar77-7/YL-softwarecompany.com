@@ -14,3 +14,5 @@ document.getElementById('contact-form').addEventListener('submit', function (eve
         document.getElementById('contact-form').reset();
     }
 });
+
+  
